@@ -105,3 +105,6 @@ a.nav-link{
 	font-weight: bold;
 	
 }
+#nav-list a:hover {
+    background: #76323F;
+}
