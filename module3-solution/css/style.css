@@ -1,0 +1,107 @@
+body{
+	font-size:16px;
+	color:#fff;
+	background-color:white;
+	font-family: 'oxygen',sans-serif;
+}
+
+#header-nav{
+	background-color: #A9A9A9;
+	border-radius:0;
+	border: solid 2px black;
+	margin-bottom: 0;
+
+}
+
+#togglemenu {
+
+	border-width: 0;
+}
+
+.navbar-brand h1 {
+	color: #000000;
+	font-size:1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.jumbotron {
+  background-color: #A9A9A9;
+  border-color: black;
+
+}
+.jumbotron h1,
+.jumbotron .h1 {
+  color: black;
+  text-align: center;
+
+}
+.jumbotron p {
+  margin-bottom: 15px;
+  padding:0px;
+  font-size: 21px;
+  font-weight: 200;
+}
+.jumbotron > hr {
+  border-top-color: #d5d5d5;
+}
+.container .jumbotron,
+.container-fluid .jumbotron {
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+}
+.jumbotron .container {
+  max-width: 100%;
+ }
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  color:black;
+  
+}
+
+.navbar-collapse {
+	border-width: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.h1{
+	color:black;
+	text-align: center;
+}
+
+ul#nav-list{
+	padding-top: 0;
+	margin-top: 0;
+}
+ul#nav-list li{
+	border-bottom:solid 2px black;
+	border-right:solid 2px black;
+	border-left:solid 2px black;
+	text-align: center;
+	color:black;
+
+}
+
+a.nav-link{
+	color:black;
+	font-weight: bold;
+	
+}
